@@ -1,2 +1,3 @@
-<h1 I developed a game using python, called Pong./>
-<h2 The game has an integrted oponent but if you want to, you can play against your friend using split keyboard./>
+# I developed a game using Python, called Pong.
+## The game has an integrated opponent, but you can also play against your friend using split keyboard.
+
